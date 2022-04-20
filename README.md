@@ -12,6 +12,7 @@ Este no estará completamente actualizado, pero si lo lees y llegas a diferir o 
   To add a directory use "git add <directory>"
 </b>  
 
+  <h3><br></br></h3>
   <table>
     <tr>
       <td> Comando 1</td>
