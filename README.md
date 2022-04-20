@@ -11,3 +11,10 @@ Este no estará completamente actualizado, pero si lo lees y llegas a diferir o 
   To add all the files in the current directory, use "git add ."
   To add a directory use "git add <directory>"
 </b>  
+
+  <table>
+    <tr>
+      <td> Comando 1</td>
+      <td> Comando 2</td>
+    </tr>
+  </table>
